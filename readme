@@ -7,6 +7,7 @@ The purpose of the application
 
 
 Highlight how to run tests
--In order to test the application, open the HTML file through liveserver. Next, utilize the search function with whatever keyword and see if anything gets outputted in the lefthand box column. The results also clear when you press 'Enter' or click the 'Find Shows' box. 
+-In order to test the application, open the HTML file through liveserver. Next, utilize the search function with whatever keyword and see if anything gets outputted in the lefthand box column. The results also clear when you press 'Enter' or click the 'Find Shows' box. The right-hand column will also display any secondary information related to any television show you click from the left-hand column.
+
 
 
