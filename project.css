@@ -2,7 +2,7 @@
   width: 300px;  
   height: 10px; 
   padding: 10px; 
-  font-size: 1.2rem; /* rem = root element */
+  font-size: 1.2rem; 
   display: block;
   margin: 0 auto;
   width: 300px;
@@ -22,7 +22,7 @@ p {
 }
 
 
-/* split page */
+/* splitting page */
 .split-container {
   display: flex;
   gap: 20px;
