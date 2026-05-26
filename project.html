@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script defer src="project.js"></script>
+  <link rel="stylesheet" href="./project.css">
+</head>
+
+<body>
+  <h1>What to watch!?</h1>
+
+  <input id="Search" type="text" name="Search" placeholder="Already know? Enter show here">
+  <section class="genre-filters">
+    <h2>CHOOSE GENRE</h2>
+
+    <label>
+      <input type="checkbox" value="Drama" />
+      Drama
+    </label>
+
+    <label>
+      <input type="checkbox" value="Comedy" />
+      Comedy
+    </label>
+
+    <label>
+      <input type="checkbox" value="Crime" />
+      Crime
+    </label>
+
+    <label>
+      <input type="checkbox" value="Sci-Fi" />
+      Sci-Fi
+    </label>
+
+    <label>
+      <input type="checkbox" value="Thriller" />
+      Thriller
+    </label>
+    
+    <label>
+      <input type="checkbox" value="Action" />
+      Action
+    </label>
+    
+    <label>
+      <input type="checkbox" value="Reality" />
+      Reality
+    </label>   
+
+    <label>
+      <input type="checkbox" value="Documentary" />
+      Documentary
+    </label>   
+
+    <button id="find-button">Find Shows</button>
+  </section>
+
+<!-- split page -->
+  <div class="split-container">
+  <div id="results-container" class="left-half"></div>
+  <div id="details-container" class="right-half"></div>
+  </div>
+
+
+</body>
+</html>
