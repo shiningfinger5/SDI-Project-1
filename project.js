@@ -10,8 +10,6 @@ class TVSearch {
   searchBarResults() {
     this.inputField.addEventListener("keydown", event => {
       if (event.key === "Enter") {
-        event.preventDefault();
-
         const inputValue = this.inputField.value;
 
         fetch(`${this.url}/search/shows?q=${inputValue}`)
