@@ -1,34 +1,12 @@
-Living document (keep fully up to date)
-
-
-
-
-
-
-
 How to install and run all parts of the application
-
-
-
+-In order to run this application, you have to open the html file through a live server. 
 
 
 The purpose of the application
--To find a tv show tailored towards your preferences, so that you'll probably enjoy watching it
-
-
-
-
-Different uses for the application (optional)
-
-
-
-
-
-
-
+-To find a tv show based on a keyword or genre. 
 
 
 Highlight how to run tests
-
+-In order to test the application, open the HTML file through liveserver. Next, utilize the search function with whatever keyword and see if anything gets outputted in the lefthand box column. The results also clear when you press 'Enter' or click the 'Find Shows' box. 
 
 
