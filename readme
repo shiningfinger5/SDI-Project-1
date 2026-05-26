@@ -1,13 +1,16 @@
-How to install and run all parts of the application
+>How to install and run all parts of the application
 -In order to run this application, you have to open the html file through a live server. 
 
 
-The purpose of the application
--To find a tv show based on a keyword or genre. 
+>The purpose of the application
+-To find a tv show based on a keyword or genre. The application will also provide a brief summary of the TV show and a picture of the show based on any results you click from the left-hand column. 
 
 
-Highlight how to run tests
--In order to test the application, open the HTML file through liveserver. Next, utilize the search function with whatever keyword and see if anything gets outputted in the lefthand box column. The results also clear when you press 'Enter' or click the 'Find Shows' box. The right-hand column will also display any secondary information related to any television show you click from the left-hand column.
+>Highlight how to run tests
+- 1. In order to test the application, open the HTML file through liveserver. 
+  2. Next, utilize the search function with whatever keyword and see if anything gets outputted in the lefthand box column. The results also clear when you press 'Enter' or click the 'Find Shows' box. 
+  3. The right-hand column will also display any secondary information related to any television show you click from the left-hand column.
 
 
-
+>MVP reasoning
+-1. In order to have the application do the absolute minimum, I made sure the search function and genre filter accurately interacted with the television website's API. The genre filter doesn't completely filter by the genre property, it acts as another search query. 
